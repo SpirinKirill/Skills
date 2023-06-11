@@ -17,6 +17,12 @@
 Факультет: Информационные системы и технологии
 <br/>
 <br/>
+
+[<img align="left" height="64px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/files/Sky.PNG?raw=true"/>](https://sky.pro/)
+
+Курс: [Аналитик данных](https://sky.pro/) 
+<br/>
+<br/>
 ## Навыки
 * Инструменты анализа данных: `SQL`, `Excel`;
 * Системы управления базами данных: `MySQL`, `PostgreSQL`;
