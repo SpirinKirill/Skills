@@ -1,1 +1,34 @@
-
+with proba as(
+    select q.*
+         , name_partner
+         , row_number() over(order by date_purchase) as rn_all
+         , row_number() over(partition by user_id, purchase_id order by date_purchase) as rn_user_purchase
+    from skycinema.client_sign_up as q
+        join skycinema.partner_dict as w
+            on q.partner = w.id_partner
+),
+count_by_month as(
+    select 
+           name_partner
+         , count(case when rn_user_purchase = '1' then rn_user_purchase end) as mn1
+         , count(case when rn_user_purchase = '2' then rn_user_purchase end) as mn2
+         , count(case when rn_user_purchase = '3' then rn_user_purchase end) as mn3
+         , count(case when rn_user_purchase = '4' then rn_user_purchase end) as mn4
+         , count(case when rn_user_purchase = '5' then rn_user_purchase end) as mn5
+         , count(case when rn_user_purchase = '6' then rn_user_purchase end) as mn6
+    from proba
+    group by name_partner
+)
+select name_partner
+    , mn2::float / mn1::float as reachability_mn2
+    , mn3::float / mn1::float as reachability_mn3
+    , mn4::float / mn1::float as reachability_mn4
+    , mn5::float / mn1::float as reachability_mn5
+    , mn6::float / mn1::float as reachability_mn6
+from count_by_month
+group by name_partner
+        , reachability_mn2
+        , reachability_mn3
+        , reachability_mn4
+        , reachability_mn5
+        , reachability_mn6
