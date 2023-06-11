@@ -3,7 +3,13 @@
 Привет! Меня зовут Кирилл, я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 **Образование**
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/header1.png?raw=true"/>](https://mtkp.bmstu.ru/)
 [МТКП](https://mtkp.bmstu.ru/)
+
+Факультет: Приборостроение
+<br/>
+<br/>
 
 ## Навыки
 * Инструменты анализа данных: `SQL`, `Excel`;
