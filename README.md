@@ -4,7 +4,7 @@
 
 **Образование**
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/header1.png?raw=true"/>](https://mtkp.bmstu.ru/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/files/header1.png"/>](https://mtkp.bmstu.ru/)
 [МТКП](https://mtkp.bmstu.ru/)
 
 Факультет: Приборостроение
