@@ -18,6 +18,9 @@
 Проект 4:
 [**Составление витрины**](https://github.com/SpirinKirill/Skills/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%204)
 
+Проект 5:
+[**Моделирование изменения балансов студентов**](https://github.com/SpirinKirill/Skills/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205)
+
 ## Опыт Работы 
 **Инженер-технолог производства печатных плат**  
 [**РКС**](https://russianspacesystems.ru/) • Полная занятость
