@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true"/>](https://rgsu.net/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/files/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true"/>](https://rgsu.net/)
 [Российский государственный социальный университет](https://rgsu.net/)
 
 Факультет: Информационные системы и технологии
