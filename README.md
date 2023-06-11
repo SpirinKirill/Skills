@@ -23,6 +23,7 @@
 Курс: [Аналитик данных](https://sky.pro/) 
 <br/>
 <br/>
+
 ## Навыки
 * Инструменты анализа данных: `SQL`, `Excel`;
 * Системы управления базами данных: `MySQL`, `PostgreSQL`;
@@ -44,8 +45,11 @@
 [**Моделирование изменения балансов студентов**](https://github.com/SpirinKirill/Skills/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205)
 
 ## Опыт Работы 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/files/%D1%80%D0%BA%D1%81.PNG?raw=true"/>](https://russianspacesystems.ru/)
 **Инженер-технолог производства печатных плат**  
 [**РКС**](https://russianspacesystems.ru/) • Полная занятость
+<br/>
+<br/>
 
 ## Контактная информация
 - Email: kirikspirin@mail.ru
