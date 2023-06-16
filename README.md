@@ -35,7 +35,7 @@
 Проект 2:
 [**Когортный анализ**](https://github.com/SpirinKirill/Skills/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202)
 
-Проет 3:
+Проект 3:
 [**Винтажные доходимости**](https://github.com/SpirinKirill/Skills/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203)
 
 Проект 4:
