@@ -44,6 +44,9 @@
 Проект 5:
 [**Моделирование изменения балансов студентов**](https://github.com/SpirinKirill/Skills/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205)
 
+Проект 6: 
+[**Power BI**](https://github.com/SpirinKirill/Skills/tree/main/Power%20BI)
+
 ## Опыт Работы 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/SpirinKirill/Skills/blob/main/files/%D1%80%D0%BA%D1%81.PNG?raw=true"/>](https://russianspacesystems.ru/)
 **Инженер-технолог производства печатных плат**  
